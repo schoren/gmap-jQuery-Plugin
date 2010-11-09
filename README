@@ -1,0 +1,17 @@
+gmap jQuery Plugin v0.1
+-------------------------------
+Copyright (c) 2010 Sebastian Choren. Licensed under the GPL license.
+
+Author: Sebastian Choren <sebastianchoren@gmail.com> 
+
+Overview
+--------
+
+A jQuery plugin to interact with Google Maps API v3
+
+TODO
+----
+
+- Add events for methods.
+- Change return values from methods to events, so methods can be chainable
+- Add support for polylines
